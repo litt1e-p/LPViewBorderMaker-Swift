@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = "LPViewBorderMaker-swift"
+  s.name             = "LPViewBorderMaker-Swift"
   s.version          = "0.0.1"
   s.summary          = "UIView extension of making UIView borders"
   s.description      = <<-DESC
