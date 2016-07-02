@@ -18,7 +18,7 @@ public struct LPBorderPosition: OptionSetType
     public init(rawValue: Int) { self.rawValue = rawValue }
 }
 
-extension UIView
+public extension UIView
 {
     public func makeBorders() {
         makeBorder(1.0, color: UIColor(red: 0.0, green: 0.0, blue: 0.0, alpha: 0.5), positions: [.Top, .Bottom, .Left, .Right])
