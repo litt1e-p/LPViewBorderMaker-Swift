@@ -25,7 +25,7 @@ v.makeBorder(0.5, color: .redColor(), positions: [.Bottom, .Right, .Left])
 
 # Screenshot
 
-<img src="https://github.com/litt1e-p/LPViewBorderMaker/blob/master/screenshot.png", width=320>
+![](https://github.com/litt1e-p/LPViewBorderMaker/blob/master/screenshot.png)
 
 # Release Notes
 
